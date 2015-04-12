@@ -1,0 +1,196 @@
+Country	Capital	Cities larger than the capital
+Afghanistan	Kabul	
+Albania	Tirana	
+Algeria	Algiers	
+Andorra	Andorra la Vella	
+Angola	Luanda	
+Antigua and Barbuda	St. John's	
+Argentina	Buenos Aires	
+Armenia	Yerevan	
+Australia	Canberra	Sydney, Melbourne, Brisbane, Perth, Adelaide, Gold Coast, Newcastle
+Austria	Vienna	
+Azerbaijan	Baku	
+Bahamas	Nassau	
+Bahrain	Manama	
+Bangladesh	Dhaka	
+Barbados	Bridgetown	
+Belarus	Minsk	
+Belgium	Brussels	
+Belize	Belmopan	Belize City, San Ignacio
+Benin	Porto-Novo (official), Cotonou (administrative)	Cotonou
+Bhutan	Thimphu	
+Bolivia	Sucre (official), La Paz (administrative)	Santa Cruz, El Alto (larger than La Paz; La Paz is larger than Sucre)
+Bosnia and Herzegovina	Sarajevo	
+Botswana	Gaborone	
+Brazil	Brasília	Sao Paulo City, Rio de Janeiro, Salvador (by city proper); Sao Paulo City, Rio de Janeiro, Belo Horizonte, Recife, Belém, Porto Alegre and Fortaleza (by metropolitan population);
+Brunei	Bandar Seri Begawan	
+Bulgaria	Sofia	
+Burkina Faso	Ouagadougou	
+Burma	Naypyidaw (Pyinmana)	Yangon, Mandalay.
+Burundi	Bujumbura	
+Cambodia	Phnom Penh	
+Cameroon	Yaoundé	Douala
+Canada	Ottawa	Toronto, Montreal, Vancouver (Metropolitan area), Calgary (City proper)
+Cape Verde	Praia	
+Central African Republic	Bangui	
+Chad	N'Djamena	
+Chile	Santiago (official), Valparaíso (legislative)	Santiago is the largest metropolitan area; Greater Concepción is larger than Greater Valparaíso
+China	Beijing	Shanghai
+Colombia	Bogotá	
+Comoros	Moroni	
+Congo, Democratic Republic of the	Kinshasa	
+Congo, Republic of the	Brazzaville	
+Costa Rica	San José	
+Croatia	Zagreb	
+Cuba	Havana	
+Cyprus	Nicosia	
+Czech Republic	Prague	
+Denmark	Copenhagen	
+Djibouti	Djibouti	
+Dominica	Roseau	
+Dominican Republic	Santo Domingo	
+East Timor	Dili	
+Ecuador	Quito	Guayaquil
+Egypt	Cairo	
+El Salvador	San Salvador	
+Equatorial Guinea	Malabo	
+Eritrea	Asmara	
+Estonia	Tallinn	
+Ethiopia	Addis Ababa	
+Fiji	Suva	
+Finland	Helsinki	
+France	Paris	
+Gabon	Libreville	
+Gambia, the	Banjul	Serekunda
+Georgia	Tbilisi	
+Germany	Berlin	
+Ghana	Accra	
+Greece	Athens	
+Grenada	St. George's	
+Guatemala	Guatemala City	
+Guinea	Conakry	
+Guinea-Bissau	Bissau	
+Guyana	Georgetown	
+Haiti	Port-au-Prince	
+Honduras	Tegucigalpa	
+Hungary	Budapest	
+Iceland	Reykjavík	
+India	New Delhi (not to be confused with Delhi)	Proper city of New Delhi is smaller than 179 cities located within the boundaries of India, including in order of largest populations: Mumbai (Bombay), Delhi, Bangalore, Hyderabad, Ahmedabad, Chennai(Madras) and Kolkata (Calcutta). The urban agglomeration of Delhi-New Delhi has 16,314,838 (11,000,000 only in Delhi) and is smaller only than the urban agglomeration of Mumbai (18,414,288).
+Indonesia	Jakarta	
+Iran	Tehran	
+Iraq	Baghdad	
+Ireland, Republic of	Dublin	
+Israel	Jerusalem (seat of government, proclaimed capital)[1]	The city proper of Jerusalem is bigger than Tel Aviv, but the metropolitan area of Tel Aviv is bigger than Jerusalem.
+Italy	Rome	Milan (Metropolitan Area), Naples (Metropolitan Area).
+Ivory Coast	Yamoussoukro (official), Abidjan (administrative)	Abidjan
+Jamaica	Kingston	
+Japan	Tokyo	
+Jordan	Amman	
+Kazakhstan	Astana	Almaty, Shymkent
+Kenya	Nairobi	
+Kiribati	South Tarawa	
+Korea, North	Pyongyang	
+Korea, South	Seoul	
+Kuwait	Kuwait City	
+Kyrgyzstan	Bishkek	
+Laos	Vientiane	
+Latvia	Riga	
+Lebanon	Beirut	
+Lesotho	Maseru	
+Liberia	Monrovia	
+Libya	Tripoli	
+Liechtenstein	Vaduz	Schaan
+Lithuania	Vilnius	
+Luxembourg	Luxembourg	
+Macedonia, Republic of	Skopje	
+Madagascar	Antananarivo	
+Malawi	Lilongwe	
+Malaysia	Kuala Lumpur (legislative; de facto), Putrajaya (administrative)	Kuala Lumpur
+Maldives	Malé	
+Mali	Bamako	
+Malta	Valletta	Birkirkara, St. Paul's Bay, Mosta, Sliema, Qormi, Żabbar, Naxxar, San Ġwann, Marsaskala, Żebbuġ, Fgura, Rabat, Żejtun, Żurrieq, Attard, St. Julian's, Swieqi, Mellieħa, Birżebbuġa, Ħamrun, Msida, Tarxien, Siġġiewi, Gżira, Paola, Santa Venera, Victoria (Gozo)
+Marshall Islands	Majuro	
+Mauritania	Nouakchott	
+Mauritius	Port Louis	
+Mexico	Mexico City	
+Micronesia, Federated States of	Palikir	Weno
+Moldova	Chișinău	
+Monaco	Monaco	
+Mongolia	Ulan Bator	
+Montenegro	Podgorica	
+Morocco	Rabat	Casablanca
+Mozambique	Maputo	
+Namibia	Windhoek	
+Nauru	None (government offices in Yaren District)	Denigomodu, Meneng, Aiwo
+Nepal	Kathmandu	
+Netherlands, Kingdom of the	Amsterdam (official),The Hague (administrative, legislative, and judicial)	Rotterdam (Larger than The Hague; Amsterdam is the largest city)
+New Zealand	Wellington	Auckland, Christchurch
+Nicaragua	Managua	
+Niger	Niamey	
+Nigeria	Abuja	Lagos, Ibadan, Kano, Ilorin, Port Harcourt, Ogbomosho
+Norway	Oslo	
+Oman	Muscat	
+Pakistan	Islamabad	Karachi, Lahore, Faisalabad, Rawalpindi, Gujranwala, Multan, Hyderabad, Peshawar, Quetta
+Palau	Ngerulmud	Koror, Meyuns, Airai
+Palestine, State of	Jerusalem (Claimed), Gaza City (de Facto administrative, Gaza), Ramallah (de facto administrative, West Bank)	
+Panama	Panama City	
+Papua New Guinea	Port Moresby	
+Paraguay	Asunción	
+Peru	Lima	
+Philippines	Manila	Quezon City (both Manila and Quezon City are parts of the National Capital Region)
+Poland	Warsaw	Katowice (Metropolitan Area)
+Portugal	Lisbon	
+Qatar	Doha	
+Romania	Bucharest	
+Russia	Moscow	
+Rwanda	Kigali	
+Saint Kitts and Nevis	Basseterre	
+Saint Lucia	Castries	
+Saint Vincent and the Grenadines	Kingstown	
+Samoa	Apia	
+San Marino	San Marino	Serravalle, Borgo Maggiore
+São Tomé and Príncipe	São Tomé	
+Saudi Arabia	Riyadh	
+Senegal	Dakar	
+Serbia	Belgrade	
+Seychelles	Victoria	
+Sierra Leone	Freetown	
+Singapore	Singapore	
+Slovakia	Bratislava	
+Slovenia	Ljubljana	
+Solomon Islands	Honiara	
+Somalia	Mogadishu	
+South Africa	Pretoria (official, administrative, and executive), Cape Town (legislative), Bloemfontein (judicial)	Johannesburg is the largest city, Durban is slightly smaller than Cape Town but larger than Pretoria and Bloemfontein combined
+South Sudan	Juba	
+Spain	Madrid	
+Sri Lanka	Sri Jayawardenepura Kotte	Kotte is a suburb of Colombo, the largest city.
+Sudan	Khartoum	Omdurman
+Suriname	Paramaribo	
+Swaziland	Mbabane (official), Lobamba (legislative and royal)	Manzini
+Sweden	Stockholm	
+Switzerland	Bern	Zurich, Geneva, Basel, Lausanne
+Syria	Damascus	Aleppo
+Tajikistan	Dushanbe	
+Tanzania	Dodoma (official), Dar es Salaam (administrative)	Dar es Salaam, Mwanza
+Thailand	Bangkok	
+Togo	Lomé	
+Tonga	Nukuʻalofa	
+Trinidad and Tobago	Port of Spain	Chaguanas, San Fernando, San Juan
+Tunisia	Tunis	
+Turkey	Ankara	Istanbul
+Turkmenistan	Ashgabat	
+Tuvalu	Funafuti	
+Uganda	Kampala	
+Ukraine	Kiev	
+United Arab Emirates	Abu Dhabi	Dubai
+United Kingdom	London	London is the largest urban and metropolitan area. The City of Westminster, in central London, is the seat of government; 62 districts have larger populations than Westminster.[2]
+United States	Washington, D.C.	New York City, Los Angeles, Chicago, Houston, Philadelphia, Phoenix, San Antonio, San Diego, Dallas, San Jose, Austin, Jacksonville, Indianapolis, San Francisco, Columbus, Fort Worth, Charlotte, Detroit, El Paso, Memphis, Boston, Seattle, Denver (Baltimore-Washington Metropolitan Area ranks 4th)
+Uruguay	Montevideo	
+Uzbekistan	Tashkent	
+Vanuatu	Port Vila	
+Vatican City	Vatican City	
+Venezuela	Caracas	
+Vietnam	Hanoi	Ho Chi Minh City
+Yemen	Sana'a	
+Zambia	Lusaka	
+Zimbabwe	Harare	
